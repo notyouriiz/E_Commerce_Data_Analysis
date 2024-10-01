@@ -3,16 +3,22 @@ Finding a way to increase sell and knowing what product should be on prioritize 
 
 # Dashboard Guide, How to Run
 ## 1. First of all, clone the repository into local directory, use this command:
+'''bash
   git clone https://github.com/notyouriiz/E_Commerce_Data_Analysis.git
   cd submission
+  '''
 ## 2. Install Dependencies
   The next step is to install all requiered dependencies
+  '''bash
   pip install -r requirement.txt
+  '''
 ## 3. Run Dashboard with Streamlit
   Use the following command
+  '''bash
   streamlit run dashboard/dashboard.py
+  '''
 # Analysis Using Jupyter Notebook
-This project also had an analysis using Jupyter Notebook which contain on file name "notebook.ipynb"
+This project also had an analysis using Jupyter Notebook which contain on file name <b>"notebook.ipynb"</b>
 # Dependencies
 <ol>
   <li>Pandas: Pandas is a popular open-source data manipulation and analysis library for Python. It provides powerful tools for working with structured data, making it easier to clean, transform, analyze, and visualize data. </li>
@@ -23,3 +29,4 @@ This project also had an analysis using Jupyter Notebook which contain on file n
   <li>PIL: Python Imaging Library, is a library in Python that provides extensive capabilities for opening, manipulating, and saving various image file formats. It has been succeeded by a more modern fork called Pillow, which is actively maintained and includes additional features and improvements.</li>
   </ol>
   # Dashboard URL
+  
